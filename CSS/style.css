@@ -1,0 +1,36 @@
+    /******* Layout *******/
+
+/* class-> .text-red {} */
+/* id -> #id-bilgisi {} */ 
+    
+body {background-color: #ffffff;}
+header{
+    text-align:center;
+}
+section{
+    text-align:center;
+}
+
+h1{
+    color:#09e13b;
+    text-transform: uppercase;
+    text-align:center;
+}
+h2{
+    color:#ffa202b3;
+    text-align:center;
+}
+h3{
+    color: #d44609;
+    text-align:center;
+}
+ul li {
+    list-style-position: inside;
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+    display: table;
+    margin: 0 auto;
+}
